@@ -55,6 +55,18 @@ echo $filamentWebcam->echoPhrase('Hello, Zydnrbrn!');
 ```bash
 composer test
 ```
+## To-do
+- [ ] <a href="https://bensonruan.com/how-to-access-webcam-and-take-photo-with-javascript/#">webcam-easy</a> integration
+- [ ] Add support for video recording
+- [ ] Implement image filters (e.g., grayscale, sepia)
+- [ ] Add option to save images to different storage disks (e.g., S3, local)
+- [ ] Create a demo page showcasing the plugin's capabilities
+- [ ] Write unit tests for the webcam functionality
+- [ ] Add localization support for multiple languages
+- [ ] Improve error handling and user feedback
+- [ ] Optimize performance for low-end devices
+- [ ] Add documentation for advanced configuration options
+
 
 ## Changelog
 
