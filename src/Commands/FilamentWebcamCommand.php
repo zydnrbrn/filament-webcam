@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Zydnrbrn\FilamentWebcam\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class FilamentWebcamCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'filament-webcam';
 
     public $description = 'My command';
 
